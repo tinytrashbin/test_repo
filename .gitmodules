@@ -1,0 +1,6 @@
+[submodule "my_first_subrepo"]
+	path = my_first_subrepo
+	url = https://github.com/tinytrashbin/first_subrepo.git
+[submodule "my_second_subrepo"]
+	path = my_second_subrepo
+	url = https://github.com/tinytrashbin/second_subrepo.git
